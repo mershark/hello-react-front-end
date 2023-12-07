@@ -46,7 +46,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Frontend Link <a name="live-demo"></a>
+## 🚀 Backend Link <a name="live-demo"></a>
 - [Backend Link](https://github.com/mershark/hello-rails-back-end)
 
 
