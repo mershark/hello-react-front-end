@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails Frontend <a name="about-project"></a>
+# 📖 Hello React Frontend <a name="about-project"></a>
 
-**Hello Rails Frontend** This App connects this React front-end with a Rails back-end API to display a random message.
+**Hello React Frontend** This App connects this React front-end with a Rails back-end API to display a random message.
 
 ## 🛠 Built With <a name="built-with"></a>
 
